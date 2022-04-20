@@ -9,6 +9,3 @@ The CSS alignments was still a big struggle for me, and it was hard to get every
 
 ●	What would make your experience with this assessment better?
 I feel that there could be more of a incremental process for us, to be able to practice on each parts first before doing a large scale project would really help for beginners like myself.
-
-Link:
-https://github.com/jcmonkey87/Assessment.git
